@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/main.qml</file>
+        <file>qml/DownloadTraceScreen.qml</file>
+        <file>qml/components/ErrorDialog.qml</file>
+        <file>qml/pages.js</file>
+        <file>qml/style.js</file>
+        <file>qml/TraceScreen.qml</file>
+        <file>qml/FlatLogs.qml</file>
+        <file>qml/ServiceMap.qml</file>
+        <file>../fonts/RobotoMono-Bold.ttf</file>
+        <file>../fonts/RobotoMono-BoldItalic.ttf</file>
+        <file>../fonts/RobotoMono-ExtraLight.ttf</file>
+        <file>../fonts/RobotoMono-ExtraLightItalic.ttf</file>
+        <file>../fonts/RobotoMono-Italic.ttf</file>
+        <file>../fonts/RobotoMono-Light.ttf</file>
+        <file>../fonts/RobotoMono-LightItalic.ttf</file>
+        <file>../fonts/RobotoMono-Medium.ttf</file>
+        <file>../fonts/RobotoMono-MediumItalic.ttf</file>
+        <file>../fonts/RobotoMono-Regular.ttf</file>
+        <file>../fonts/RobotoMono-SemiBold.ttf</file>
+        <file>../fonts/RobotoMono-SemiBoldItalic.ttf</file>
+        <file>../fonts/RobotoMono-Thin.ttf</file>
+        <file>../fonts/RobotoMono-ThinItalic.ttf</file>
+    </qresource>
+</RCC>
