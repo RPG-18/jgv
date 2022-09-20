@@ -38,7 +38,7 @@ void loadFonts()
                                            ":/fonts/RobotoMono-ExtraLight.ttf",
                                            ":/fonts/RobotoMono-ExtraLightItalic.ttf",
                                            ":/fonts/RobotoMono-Italic.ttf",
-                                           ":/fonts/RobotoMono-Light.ttf"
+                                           ":/fonts/RobotoMono-Light.ttf",
                                            ":/fonts/RobotoMono-LightItalic.ttf",
                                            ":/fonts/RobotoMono-Medium.ttf",
                                            ":/fonts/RobotoMono-MediumItalic.ttf",
